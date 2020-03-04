@@ -1,5 +1,8 @@
 # 충돌 방지 및 회피 로봇
-<img src="https://user-images.githubusercontent.com/55565351/75853005-87eb3000-5e30-11ea-8178-835d4ef92f0a.jpg" width="300"/>
+<div>
+<img src="https://user-images.githubusercontent.com/55565351/75853843-3b085900-5e32-11ea-95e4-accbb07d2f9a.jpg" width="300"/>
+<img src="https://user-images.githubusercontent.com/55565351/75853974-760a8c80-5e32-11ea-851b-f66996bf8569.jpg" width="300"/>
+</div>
 
 ## 프로젝트 내용
 * 왼쪽, 오른쪽의 초음파 센서로부터 거리를 측정한다. 왼쪽의 거리가 10cm 이하가 되면 로봇이 멈추고 버저가 울리면서 오른쪽으로 회전하여 회피한다. 
